@@ -1,7 +1,40 @@
-# ![Title](https://cdn.modrinth.com/data/r7FRg5l2/images/de9b1a1e0837242a949df44489083a48dd4160b5_350.webp)
-I have hand-picked mods to replicate the popular Bedrock Marketplace pack "Actions & Stuff"
+<p align="center">
+<img src="https://cdn.modrinth.com/data/cached_images/de9b1a1e0837242a949df44489083a48dd4160b5.png" alt="WhatisJ&S?" width="500">
+<hr class="solid">
+</p>
+**Intro:**
+Hi! this modpack is Inspired by "Actions & Stuff" a Bedrock marketplace Add-on... i have hand-picked mods to best replicate it in java! so enjoy...and read the rest of this Description
 
-**here is the list of mods(and resourcepacks) included in this pack:**
+<hr class="solid">
+<p align="center">
+ <img src="https://cdn.modrinth.com/data/cached_images/85cca2f833fb6c06f3ad65af3af0269ea0487f91.png" alt="WhatisJ&S?" width="500">
+</p>
+<hr class="solid">
+
+**Java & Stuff is a Minecraft modpack that is Inspired by a Bedrock marketplace Addon named "Actions & Stuff" this modpack uses several stuff to replicate that beautiful Addon's Stuff for example the Animations or how the items look! so if you really like the Visual and gameplay of Actions & Stuff this pack is made for you ;D**
+<hr class="solid">
+<p align="center">
+<img src="https://cdn.modrinth.com/data/cached_images/0f7f06852923369e0811167bd34594904e87ddcc.png" alt="Q&A" width="120">
+</p>
+<hr class="solid">
+
+**Q1. Will you Update the pack as "Actions & Stuff" Updates its Stuff?**<br>
+A: Yes,i will try my best
+
+**Q2. Where should i Report bugs ask Questions and Give suggestions?**<br>
+A: through this Projects [Github Issues](https://github.com/TheCrackersStudio/Java-Stuff/issues) Page!
+
+**Q3. How can i contact you Personally?**<br>
+A: Through Discord! My username is "itsdenji777"
+<hr class="solid">
+<p align="center">
+<img src="https://cdn.modrinth.com/data/cached_images/5976f2df89a684c95d18d0c95386063bd11ed79f.png" alt="Mods&Stuff" width="500">
+</p>
+<hr class="solid">
+
+Here is a list of Mods & Resource Packs Included in this Modpack
+
+
 <details>
 <summary>List(ModLibraries Included)</summary>
   
@@ -13,6 +46,7 @@ I have hand-picked mods to replicate the popular Bedrock Marketplace pack "Actio
 - [Visuality](https://modrinth.com/mod/visuality)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Fzzy Config](https://modrinth.com/mod/fzzy-config)
+- [Endl3ss's Triden Remodel](https://modrinth.com/resourcepack/endl3sss-trident-remodel/)
 - [EMF](https://modrinth.com/mod/entity-model-features)
 - [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player/)
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
@@ -35,6 +69,7 @@ I have hand-picked mods to replicate the popular Bedrock Marketplace pack "Actio
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations/)
 - [Fogulous](https://modrinth.com/resourcepack/fogulous/)
 - [Fresh Music Discs HMI Support](https://modrinth.com/resourcepack/fmdhmi/)
+- [Vanilla Armors Reforged](https://modrinth.com/resourcepack/vanilla-armors-reforged/)
 - [ETF](https://modrinth.com/mod/entitytexturefeatures)
 - [Fresh Food](https://modrinth.com/resourcepack/fresh-food/)
 - [Melody](https://modrinth.com/mod/melody/)
@@ -50,13 +85,13 @@ I have hand-picked mods to replicate the popular Bedrock Marketplace pack "Actio
 - [Lithium](https://modrinth.com/mod/lithium/)
 - [Bray Cyber's 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books/)
 - [Enchantment Outline](https://modrinth.com/resourcepack/enchantment-outline)
-- Title.zip(Local,Made by me)
+- Mace&Gapple Fixes(Resource pack created by me to fix the bugs of the 3D Models with [FishySalmon02](https://modrinth.com/user/Fishysalmon02)'s [Enchantment Outlines](https://modrinth.com/resourcepack/enchantment-outline)
 
 </details>
 
-**!! PLEASE DO NOT TOUCH ANY SETTINGS FOR MODS OR RESOURCEPACKS !!**
+**!!PLEASE DO NOT TOUCH ANY MOD OR RESOURCEPACK SETTINGS!!**
 
-Feature Updates:
-1. Better Armors
-2. Retexturing the whole game
-3. 3D Spawn Eggs
+<hr class="solid">
+<p align="center">
+<img src="https://cdn.modrinth.com/data/cached_images/ffb691a4cb1001ed5fa87a838bda57734449336a.png" alt="Enjoy!" width="800">
+</p>
